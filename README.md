@@ -22,9 +22,9 @@ The `scripts` folder contains an updated `update_generated.py` script to generat
 
 ## References
 
-https://www.insanelymac.com/forum/topic/303073-pattern-of-mlb-main-logic-board/
-https://github.com/sickcodes/osx-serial-generator
-https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
+- https://www.insanelymac.com/forum/topic/303073-pattern-of-mlb-main-logic-board/
+- https://github.com/sickcodes/osx-serial-generator
+- https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 
 ## macserial - original README
 
